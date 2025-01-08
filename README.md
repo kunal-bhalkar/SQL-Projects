@@ -1,2 +1,2 @@
 # SQL-Projects
-SQL Projects (MySQL)
+SQL Projects [MySQL] (Data Cleaning, Data Analysis)
